@@ -36,7 +36,6 @@ class BarChart extends Component {
             />
           </div>
         </div>
-        <Link className="nav-link" aria-current="page" exact  to="/">Home</Link>
       </div>
     );
   }
